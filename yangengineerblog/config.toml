@@ -1,4 +1,4 @@
-baseURL = 'https://yjq14114.github.io/'
+baseURL = 'https://yjq14114.github.io/yangengineer/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme="LoveIt"
