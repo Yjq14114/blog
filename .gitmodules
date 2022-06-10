@@ -1,0 +1,4 @@
+[submodule "yangengineerblog/public"]
+	path = yangengineerblog/public
+	url = https://github.com/Yjq14114/yangengineer.github.io.git
+	branch = main
