@@ -34,4 +34,4 @@ CQRS 通常要结合event-driven模式一起来使用, 下图是CQRS的一个基
 
 ![Command](CQRS_Command_API.png)
 
-上图为AxonFrmework 的一个Command工作流, 首先用户请求
+上图为AxonFrmework 的一个Command工作流, 首先用户发送一个请求到服务器, 随后发送一个command 到 CommandGateway. 
